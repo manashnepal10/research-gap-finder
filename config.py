@@ -4,3 +4,4 @@ pinecone_index_name="research-gap-finder"
 embedding_dimension=1024
 chunk_size=1000
 chunk_overlap=150
+retriever_k=5
